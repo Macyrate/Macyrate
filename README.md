@@ -1,4 +1,4 @@
-//![bannerDongTingRed.png](https://s2.loli.net/2022/06/19/UEC4LRcywWviBgp.png)
+<!-- ![bannerDongTingRed.png](https://s2.loli.net/2022/06/19/UEC4LRcywWviBgp.png) -->
 
 <!--
 **Macyrate/Macyrate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
